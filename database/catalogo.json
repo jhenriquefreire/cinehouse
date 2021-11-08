@@ -1,0 +1,27 @@
+[
+    {
+    "codigo": 0,
+    "titulo": "Um homem e onze segredos",
+    "duracao": 3,
+    "atores": ["Roberto Denilson", "Leonardo DasCabra", "Sal Mahayek"],
+    "anoLancamento": 1992,
+    "emCartaz": true
+    },
+    {
+        "codigo": 1,
+        "titulo": "077 - Segunda feira de novo não",
+        "duracao": 1.5,
+        "atores": ["Nislon Brocha", "Chimbinha", "Jo Elma"],
+        "anoLancamento": 1989,
+        "emCartaz": false
+    },
+    {
+        "codigo": 2,
+        "titulo": "Urrei Leão",
+        "duracao": 3,
+        "atores": ["Simba", "Nala", "Mufasa"],
+        "anoLancamento": 1992,
+        "emCartaz": true
+    }
+]
+    
